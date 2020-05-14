@@ -8,11 +8,11 @@ This is the line-bot that can creates the easy image of letter.
 
 ## Description
 
-This is created for distribution so that normal user can use. This application allows user to select specific folder such that month and days. This application allows user to create folder for saving in folder that you select.
+This allows user to create the image of letter through the chat.
 
-## Demo
+## Language, Library
 
-
+Python, Flask
 
 ## Requirement
 
